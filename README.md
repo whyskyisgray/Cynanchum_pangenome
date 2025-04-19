@@ -1,4 +1,4 @@
-<h1 align="center">Cynanchum Pangenome</h1>
+<h1 align="center"><em>Cynanchum</em> Pangenome</h1>
 
 <p align="center">
   <strong>
