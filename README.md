@@ -1,5 +1,9 @@
-<h1>Cynanchum Pangenome</h1>
+<h1 align="center">Cynanchum Pangenome</h1>
 
-A reproducible workflow and accompanying resources for assembling 
-a graph‑based pangenome of three Cynanchum root crops (C. wilfordii, C. auriculatum, C. rostellatum) 
-and performing k‑mer‑based GWAS to discover structural variants influencing root development.
+<p align="center">
+  <strong>
+    A reproducible workflow and accompanying resources for assembling a graph‑based pangenome of three
+    <em>C. wilfordii</em>, <em>C. auriculatum</em>, and <em>C. rostellatum</em> and for performing
+    <em>k</em>-mer‑based GWAS to identify structural variants influencing root development.
+  </strong>
+</p>
